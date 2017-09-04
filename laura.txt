@@ -1,0 +1,13 @@
+ Volume in drive C is System
+ Volume Serial Number is 8C0F-FAA9
+
+ Directory of C:\Users\lkeane\Desktop\Java Project 1
+
+09/04/2017  04:05 PM    <DIR>          .
+09/04/2017  04:05 PM    <DIR>          ..
+09/04/2017  03:24 PM               675 hello.class
+09/04/2017  03:25 PM               191 hello.java
+09/04/2017  04:05 PM                 0 laura.txt
+09/04/2017  03:59 PM               459 test.1
+               4 File(s)          1,325 bytes
+               2 Dir(s)  169,047,699,456 bytes free
