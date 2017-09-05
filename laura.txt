@@ -3,11 +3,12 @@
 
  Directory of C:\Users\lkeane\Desktop\Java Project 1
 
-09/04/2017  04:05 PM    <DIR>          .
-09/04/2017  04:05 PM    <DIR>          ..
-09/04/2017  03:24 PM               675 hello.class
+09/05/2017  03:21 PM    <DIR>          .
+09/05/2017  03:21 PM    <DIR>          ..
+09/05/2017  03:22 PM               675 hello.class
 09/04/2017  03:25 PM               191 hello.java
-09/04/2017  04:05 PM                 0 laura.txt
+09/05/2017  03:28 PM                 0 laura.txt
+09/05/2017  03:21 PM               558 page.txt
 09/04/2017  03:59 PM               459 test.1
-               4 File(s)          1,325 bytes
-               2 Dir(s)  169,047,699,456 bytes free
+               5 File(s)          1,883 bytes
+               2 Dir(s)  168,696,291,328 bytes free
